@@ -7,3 +7,4 @@
 ## Tools
 - Lighthouse
 - Fiddler
+- https://www.wappalyzer.com/
